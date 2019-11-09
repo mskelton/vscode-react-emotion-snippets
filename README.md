@@ -35,4 +35,11 @@ const style = css`
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt="Mark Skelton"/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Code">💻</a> <a href="#ideas-mskelton" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
