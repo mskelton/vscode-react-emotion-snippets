@@ -14,6 +14,9 @@
   },
   "homepage": "https://github.com/mskelton/vscode-react-emotion-snippets#readme",
   "license": "MIT",
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  },
   "engines": {
     "vscode": "^1.40.0"
   },
