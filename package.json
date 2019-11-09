@@ -9,6 +9,11 @@
   "categories": [
     "Snippets"
   ],
+  "keywords": [
+    "snippets",
+    "emotion",
+    "react"
+  ],
   "contributes": {
     "snippets": [
       {
