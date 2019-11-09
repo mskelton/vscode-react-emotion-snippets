@@ -15,8 +15,8 @@
     "description": "Import Emotion css"
   },
   "Create Emotion style": {
-    "prefix": "ecs",
+    "prefix": "ces",
     "body": ["const ${1:style} = css`", "\t$0", "`"],
-    "description": "Import Emotion css only"
+    "description": "Create Emotion style"
   }
 }
