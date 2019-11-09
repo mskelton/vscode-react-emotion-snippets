@@ -1,7 +1,8 @@
 *
 */**
 **/.DS_Store
-snippets
+!snippets
+!static
 !package.json
 !README.md
 !CHANGELOG.md
