@@ -14,7 +14,7 @@ The following snippets are provided by this package. If you have ideas of other 
 
 ### Imports
 
-| Prefix  | Method                                    | Abbreviation meaning        |
+| Prefix  | Method                                    | Prefix meaning              |
 | ------- | ----------------------------------------- | --------------------------- |
 | `ies→`  | `import styled from 'react-emotion'`      | _Import Emotion styled_     |
 | `iec→`  | `import { css } from 'react-emotion'`     | _Import Emotion css_        |
