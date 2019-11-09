@@ -1,3 +1,7 @@
+## v1.0.3
+
+Fix demo gif snippet prefix.
+
 ## v1.0.2
 
 Fix create Emotion style snippet prefix.
