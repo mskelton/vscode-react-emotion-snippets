@@ -43,5 +43,7 @@ const style = css`
     <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt="Mark Skelton"/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Code">💻</a> <a href="#ideas-mskelton" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Documentation">📖</a></td>
   </tr>
 </table>
-
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
