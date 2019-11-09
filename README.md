@@ -14,15 +14,17 @@ The following snippets are provided by this package. If you have ideas of other 
 
 ### Imports
 
-| Prefix  | Method                                    |
-| ------- | ----------------------------------------- |
-| `ies→`  | `import styled from 'react-emotion'`      |
-| `iec→`  | `import { css } from 'react-emotion'`     |
-| `iecx→` | `import { css, cx } from 'react-emotion'` |
+| Prefix  | Method                                    | Abbreviation meaning        |
+| ------- | ----------------------------------------- | --------------------------- |
+| `ies→`  | `import styled from 'react-emotion'`      | _Import Emotion styled_     |
+| `iec→`  | `import { css } from 'react-emotion'`     | _Import Emotion css_        |
+| `iecx→` | `import { css, cx } from 'react-emotion'` | _Import Emotion css and cx_ |
 
 ### Other snippets
 
-`ces→`
+#### `ces→`
+
+_Create Emotion style_
 
 <!-- prettier-ignore-start -->
 ```js
