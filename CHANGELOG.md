@@ -1,3 +1,7 @@
+## v1.1.0
+
+Fix import paths
+
 ## v1.0.3
 
 Fix demo gif snippet prefix.
