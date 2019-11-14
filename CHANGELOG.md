@@ -1,6 +1,7 @@
-## v1.1.0
+## v1.1.1
 
-Fix import paths
+- Fix import paths
+- Remove cx imports
 
 ## v1.0.3
 

@@ -14,11 +14,6 @@
     "body": ["import { css, jsx } from '@emotion/core'"],
     "description": "Import Emotion css"
   },
-  "Import Emotion css and cx": {
-    "prefix": "iecx",
-    "body": ["import { css, cx, jsx } from '@emotion/core'"],
-    "description": "Import Emotion css"
-  },
   "Create Emotion style": {
     "prefix": "ces",
     "body": ["const ${1:style} = css`", "\t$0", "`"],
