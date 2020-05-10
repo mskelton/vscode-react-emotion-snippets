@@ -30,7 +30,7 @@
     "description": "Create component using emotion"
   },
   "Create component using emotion in typescript": {
-    "prefix": "comp",
+    "prefix": "etcp",
     "body": [
       "/** @jsx jsx **/",
       "import { jsx } from '@emotion/core';\n",
