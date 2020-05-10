@@ -16,11 +16,21 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "doong",
+      "name": "doong",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2216319?v=4",
+      "profile": "https://github.com/doong",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "vscode-react-emotion-snippets",
   "projectOwner": "mskelton",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
