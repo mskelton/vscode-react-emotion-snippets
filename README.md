@@ -14,11 +14,11 @@ The following snippets are provided by this package. If you have ideas of other 
 
 ### Imports
 
-| Prefix | Method                                | Prefix meaning          |
-| ------ | ------------------------------------- | ----------------------- |
-| `ies→` | `import styled from '@emotion/core'`  | _Import Emotion styled_ |
-| `iec→` | `import { css } from '@emotion/core'` | _Import Emotion css_    |
-| `iej→` | `import { jsx } from '@emotion/core'` | _Import Emotion jsx_    |
+| Prefix | Method                                     | Prefix meaning          |
+| ------ | ------------------------------------------ | ----------------------- |
+| `ies→` | `import styled from '@emotion/core'`       | _Import Emotion styled_ |
+| `iec→` | `import { css, jsx } from '@emotion/core'` | _Import Emotion css_    |
+| `iej→` | `import { jsx } from '@emotion/core'`      | _Import Emotion jsx_    |
 
 ### Other snippets
 
@@ -32,6 +32,40 @@ const style = css`
 
 `
 ```
+
+#### `ecp→`
+
+_Create Component using Emotion_
+
+```js
+/** @jsx jsx **/
+import { jsx } from '@emotion/core'
+
+function Component(props) {
+  
+}
+
+export default Component
+```
+
+#### `etcp→`
+
+_Create Component using Emotion_
+
+```js
+/** @jsx jsx **/
+import { jsx } from '@emotion/core'
+
+interface Props {
+
+}
+
+function Component({}: Props) {
+  
+}
+
+export default Component
+```
 <!-- prettier-ignore-end -->
 
 ## Contributors ✨
@@ -39,13 +73,18 @@ const style = css`
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt="Mark Skelton"/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Code">💻</a> <a href="#ideas-mskelton" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt=""/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Code">💻</a> <a href="#ideas-mskelton" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/doong-jo"><img src="https://avatars0.githubusercontent.com/u/22005861?v=4" width="100px;" alt=""/><br /><sub><b>Sungdong Jo</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=doong-jo" title="Documentation">📖</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
