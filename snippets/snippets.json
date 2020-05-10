@@ -18,5 +18,15 @@
     "prefix": "ces",
     "body": ["const ${1:style} = css`", "\t$0", "`"],
     "description": "Create Emotion style"
+  },
+  "Create component using emotion": {
+    "prefix": "ecp",
+    "body": [
+      "/** @jsx jsx **/",
+      "import { jsx } from '@emotion/core'\n",
+      "function ${1:Component}(props) {\n\t$2\n}\n",
+      "export default ${1:Component}\n"
+    ],
+    "description": "Create component using emotion"
   }
 }
