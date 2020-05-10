@@ -28,5 +28,16 @@
       "export default ${1:Component}\n"
     ],
     "description": "Create component using emotion"
+  },
+  "Create component using emotion in typescript": {
+    "prefix": "comp",
+    "body": [
+      "/** @jsx jsx **/",
+      "import { jsx } from '@emotion/core';\n",
+      "interface Props {\n\n}\n",
+      "function ${1:Component}({}: Props) {\n\t$2\n}\n",
+      "export default ${1:Component};\n"
+    ],
+    "description": "Create component using emotion in typescript"
   }
 }
