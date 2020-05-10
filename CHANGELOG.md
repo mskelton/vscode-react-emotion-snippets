@@ -1,3 +1,7 @@
+## v1.1.2
+
+- Fix documentation
+
 ## v1.1.1
 
 - Fix import paths

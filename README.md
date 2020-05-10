@@ -14,11 +14,11 @@ The following snippets are provided by this package. If you have ideas of other 
 
 ### Imports
 
-| Prefix | Method                                | Prefix meaning          |
-| ------ | ------------------------------------- | ----------------------- |
-| `ies→` | `import styled from '@emotion/core'`  | _Import Emotion styled_ |
-| `iec→` | `import { css } from '@emotion/core'` | _Import Emotion css_    |
-| `iej→` | `import { jsx } from '@emotion/core'` | _Import Emotion jsx_    |
+| Prefix | Method                                     | Prefix meaning          |
+| ------ | ------------------------------------------ | ----------------------- |
+| `ies→` | `import styled from '@emotion/core'`       | _Import Emotion styled_ |
+| `iec→` | `import { css, jsx } from '@emotion/core'` | _Import Emotion css_    |
+| `iej→` | `import { jsx } from '@emotion/core'`      | _Import Emotion jsx_    |
 
 ### Other snippets
 
