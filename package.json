@@ -30,22 +30,21 @@
   ],
   "icon": "static/icon.png",
   "contributes": {
-    "snippets": [
-      {
+    "snippets": [{
         "language": "javascript",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets/js.json"
       },
       {
         "language": "javascriptreact",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets/js.json"
       },
       {
         "language": "typescript",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets/ts.json"
       },
       {
         "language": "typescriptreact",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets/ts.json"
       }
     ]
   },
