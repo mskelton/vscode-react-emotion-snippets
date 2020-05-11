@@ -33,9 +33,9 @@ const style = css`
 `
 ```
 
-#### `ecp→`
+#### `cec→`
 
-_Create Component using Emotion_
+_Create Emotion component_
 
 ```js
 /** @jsx jsx **/
@@ -44,27 +44,6 @@ import { jsx } from '@emotion/core'
 function Component(props) {
   
 }
-
-export default Component
-```
-
-#### `etcp→`
-
-_Create Component using Emotion_
-
-```js
-/** @jsx jsx **/
-import { jsx } from '@emotion/core'
-
-interface Props {
-
-}
-
-function Component({}: Props) {
-  
-}
-
-export default Component
 ```
 <!-- prettier-ignore-end -->
 
