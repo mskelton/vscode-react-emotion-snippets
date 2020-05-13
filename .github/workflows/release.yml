@@ -6,8 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: npm ci
-      - name: Release
-        run: npx semantic-release
+      - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
