@@ -1,24 +1,3 @@
-## v1.1.2
+# Changelog
 
-- Fix documentation
-
-## v1.1.1
-
-- Fix import paths
-- Remove cx imports
-
-## v1.0.3
-
-Fix demo gif snippet prefix.
-
-## v1.0.2
-
-Fix create Emotion style snippet prefix.
-
-## v1.0.1
-
-Fix build badges.
-
-## v1.0.0
-
-Initial release 🎉
+The changelog is automatically updated using [semantic-release](https://github.com/semantic-release/semantic-release). You can see it on the [releases page](https://github.com/mskelton/vscode-react-emotion-snippets/releases).
