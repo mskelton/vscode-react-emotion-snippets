@@ -1,24 +1,4 @@
 {
-  "Import emotion styled": {
-    "prefix": "ies",
-    "body": ["import styled from '@emotion/styled'"],
-    "description": "Import Emotion styled"
-  },
-  "Import emotion jsx": {
-    "prefix": "iej",
-    "body": ["import { jsx } from '@emotion/core'"],
-    "description": "Import Emotion jsx"
-  },
-  "Import emotion css": {
-    "prefix": "iec",
-    "body": ["import { css, jsx } from '@emotion/core'"],
-    "description": "Import Emotion css"
-  },
-  "Create Emotion style": {
-    "prefix": "ces",
-    "body": ["const ${1:style} = css`", "\t$0", "`"],
-    "description": "Create Emotion style"
-  },
   "Create Emotion Component": {
     "prefix": "cec",
     "body": [
