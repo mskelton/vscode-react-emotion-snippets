@@ -61,7 +61,6 @@
   "devDependencies": {
     "prettier": "^2.0.5",
     "semantic-release": "^17.0.7",
-    "semantic-release-vsce": "^3.0.1",
-    "vsce": "^1.75.0"
+    "semantic-release-vsce": "^3.0.1"
   }
 }

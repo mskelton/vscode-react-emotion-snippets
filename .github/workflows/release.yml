@@ -6,7 +6,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: npm ci
-      - run: npx --no-install vsce package -o extension.vsix
       - uses: cycjimmy/semantic-release-action@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
