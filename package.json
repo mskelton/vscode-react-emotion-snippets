@@ -30,7 +30,8 @@
   ],
   "icon": "static/icon.png",
   "contributes": {
-    "snippets": [{
+    "snippets": [
+      {
         "language": "javascript",
         "path": "./snippets/js.json"
       },
@@ -49,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "prettier": "^2.0.5",
     "vsce": "^1.69.0"
   }
 }
