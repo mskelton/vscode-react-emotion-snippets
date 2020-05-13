@@ -2,7 +2,7 @@
   "name": "react-emotion-snippets",
   "displayName": "React Emotion Snippets",
   "description": "Useful snippets for creating React Emotion styles.",
-  "version": "1.1.2",
+  "version": "0.0.0-semantically-released",
   "publisher": "mskelton",
   "author": "Mark Skelton",
   "repository": {
@@ -14,9 +14,6 @@
   },
   "homepage": "https://github.com/mskelton/vscode-react-emotion-snippets#readme",
   "license": "MIT",
-  "scripts": {
-    "postversion": "git push && git push --tags"
-  },
   "engines": {
     "vscode": "^1.40.0"
   },
@@ -63,6 +60,8 @@
   },
   "devDependencies": {
     "prettier": "^2.0.5",
-    "vsce": "^1.69.0"
+    "semantic-release": "^17.0.7",
+    "semantic-release-vsce": "^3.0.1",
+    "vsce": "^1.75.0"
   }
 }
