@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt=""/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Code">💻</a> <a href="#ideas-mskelton" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=mskelton" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://velog.io/@sdong001"><img src="https://avatars0.githubusercontent.com/u/22005861?v=4" width="100px;" alt=""/><br /><sub><b>Sungdong Jo</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=doong-jo" title="Documentation">📖</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=doong-jo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/doong-jo"><img src="https://avatars0.githubusercontent.com/u/22005861?v=4" width="100px;" alt=""/><br /><sub><b>Sungdong Jo</b></sub></a><br /><a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=doong-jo" title="Documentation">📖</a> <a href="https://github.com/mskelton/vscode-react-emotion-snippets/commits?author=doong-jo" title="Code">💻</a></td>
   </tr>
 </table>
 
