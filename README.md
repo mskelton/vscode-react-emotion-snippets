@@ -3,7 +3,7 @@
 ![Build status](https://github.com/mskelton/vscode-react-emotion-snippets/workflows/Release/badge.svg?branch=master)
 [![Extension version](https://img.shields.io/vscode-marketplace/v/mskelton.react-emotion-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=mskelton.react-emotion-snippets)
 [![Extension installs](https://img.shields.io/vscode-marketplace/i/mskelton.react-emotion-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=mskelton.react-emotion-snippets)
-[![All Contributors](https://img.shields.io/github/all-contributors/mskelton/vscode-react-emotion-snippets?color=orange)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/mskelton/vscode-react-emotion-snippets?color=orange)](#contributors-)
 [![Semantic release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 > [React Emotion](https://emotion.sh) snippets for VS Code.
