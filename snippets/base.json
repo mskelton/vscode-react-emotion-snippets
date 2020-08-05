@@ -1,22 +1,22 @@
 {
   "Import emotion styled": {
     "prefix": "ies",
-    "body": ["import styled from '@emotion/styled'"],
+    "body": ["import styled from '@emotion/styled';"],
     "description": "Import Emotion styled"
   },
   "Import emotion jsx": {
     "prefix": "iej",
-    "body": ["import { jsx } from '@emotion/core'"],
+    "body": ["import { jsx } from '@emotion/core';"],
     "description": "Import Emotion jsx"
   },
   "Import emotion css only": {
     "prefix": "ieco",
-    "body": ["import { css } from '@emotion/core'"],
+    "body": ["import { css } from '@emotion/core';"],
     "description": "Import Emotion css only"
   },
   "Import emotion css": {
     "prefix": "iec",
-    "body": ["import { css, jsx } from '@emotion/core'"],
+    "body": ["import { css, jsx } from '@emotion/core';"],
     "description": "Import Emotion css"
   },
   "Create Emotion style": {
