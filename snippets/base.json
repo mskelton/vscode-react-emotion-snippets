@@ -21,7 +21,7 @@
   },
   "Create Emotion style": {
     "prefix": "ces",
-    "body": ["const ${1:style} = css`", "\t$0", "`"],
+    "body": ["const ${1:button}Style = css`", "\t$0", "`"],
     "description": "Create Emotion style"
   }
 }
