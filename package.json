@@ -13,7 +13,7 @@
     "url": "https://github.com/mskelton/vscode-react-emotion-snippets/issues"
   },
   "homepage": "https://github.com/mskelton/vscode-react-emotion-snippets#readme",
-  "license": "MIT",
+  "license": "ISC",
   "engines": {
     "vscode": "^1.40.0"
   },
